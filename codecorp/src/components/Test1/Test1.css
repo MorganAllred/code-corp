@@ -1,0 +1,14 @@
+.container {
+    height: 100vh;
+    text-align: center;
+  }
+  
+  label, textarea {
+    display: block;
+    margin: auto;
+  }
+  
+  button {
+    width: 20%;
+    margin-top: 10px;
+  }
